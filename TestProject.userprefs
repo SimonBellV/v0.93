@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\mainScript.cs">
+    <Files>
+      <File FileName="Assets\mainScript.cs" Line="18" Column="79" />
+      <File FileName="Assets\localizator.cs" Line="1" Column="1" />
+      <File FileName="Assets\scene2script.cs" Line="1" Column="1" />
+      <File FileName="Assets\dataScr.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
